@@ -1,5 +1,5 @@
 # Arduino-Network-Cable-Tester
-Device code for an Arduino based network cable tester
+Device code for an Arduino based network cable tester.
 
 If you use an Arduino Nano connect network header to pins 5 to 12.
 It is recommended to use a 100k ohm resistor in the return path to GND.
