@@ -9,6 +9,6 @@ You can get away with no resistor if you choose diode colors with V<sub>drop1</s
 
 See [NetworkTester.ino](NetworkTester.ino) file
 
-[ Circuit Diagram ]
+**[ Circuit Diagram ]**
 
 <img src="img/Circuito_NetworkTester.png" width="500">
