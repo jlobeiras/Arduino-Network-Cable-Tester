@@ -7,7 +7,9 @@ If you use an Arduino Nano connect network header to pins 5 to 12.
 It is recommended to use a 100 ohm resistor in the return path to GND.
 You can get away with no resistor if you choose diode colors with V<sub>drop1</sub>+V<sub>drop2</sub>=5V and pin current is around 10 mA.
 
-See [NetworkTester.ino](NetworkTester.ino) file
+**[ Arduino code ]**
+
+See [NetworkTester.ino](NetworkTester.ino) for microcontroller source code.
 
 **[ Circuit Diagram ]**
 
