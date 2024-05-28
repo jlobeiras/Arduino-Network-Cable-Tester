@@ -14,3 +14,9 @@ See [NetworkTester.ino](NetworkTester.ino) for microcontroller source code.
 **[ Circuit Diagram ]**
 
 <img src="img/Circuito_NetworkTester.png" width="500">
+
+**[ Demo video ]**
+
+Video showing the project and explaining its construction (in galician language):
+
+https://www.youtube.com/watch?v=Hmendo9eXOY
